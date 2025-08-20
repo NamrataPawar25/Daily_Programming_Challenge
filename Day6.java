@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class ZeroSumSubarrays  {
 
     public static List<int[]> findZeroSumSubarrays(int[] arr) {
         List<int[]> result = new ArrayList<>();
